@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://nimish:nimish@cluster0.8ydxf.mongodb.net/devmeet?retryWrites=true&w=majority"
+}
