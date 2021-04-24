@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://nimish:nimish@cluster0.8ydxf.mongodb.net/devmeet?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://nimish:nimish@cluster0.8ydxf.mongodb.net/devmeet?retryWrites=true&w=majority",
+  "jwtToken": "devmeettoken"
 }
